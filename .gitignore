@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Backup / earlier-version folder — keep local only
+Personal Website - version 1/
+
+# Separate project repos that live alongside this one — they have their
+# own Git history; don't include them in the portfolio repo.
+Buy vs Rent Dashboard/
+Personal Finance Dashboard/
+
+# Common stuff (here for safety even if not currently used)
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
